@@ -1,0 +1,31 @@
+id: PE49C0B92
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00EGS1017133
+  instance_id: http://purl.bdrc.io/resource/IE1KG4771
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དགོངས་གཅིག་འགྲེལ་པ་ཉི་མའི་སྣང་བ།
+  alt_title:
+    en:
+    - dgoṅs gcig 'grel ba ñi ma'i snaṅ ba
+  author: http://purl.bdrc.io/resource/P2666
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1ffb183402eb4ec5990e8c97dbefbcc8:
+      title: པོད ༡་དགོངས་གཅིག་འགྲེལ་པ་ཉི་མའི་སྣང་བ
+      volume_number: 1
+      base_file: UT1KG4771_I1KG4822_0000.txt
+      reference: http://purl.bdrc.io/resource/VL302927647E6FA5EF
+      image_group: I1KG4822
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG4771
+  - http://purl.bdrc.io/resource/MW1KG4771
+  ocr_software: Namsel
+created_at: '2021-12-22T10:43:11.349272'
+last_modified_at: '2021-12-22T10:43:11.349280'
